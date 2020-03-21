@@ -1,6 +1,6 @@
 # mcp41010
 digital potentiometer control program
-
+```
 //Christopher Seymour  
 //June 11, 2016  
 //MCP41010 digital potentiometer 10kOhm, 256 step (8 bit)  
@@ -58,3 +58,4 @@ digital potentiometer control program
 //    clockPin = pin to toggle once dataPin has been set to the right value  
 //    bitOrder = MSBFIRST or LSBFIRST  
 //    vlaue    = byte to send  
+```
